@@ -21,3 +21,9 @@ uvicorn main:app --reload
 
 API Docs:
 http://127.0.0.1:8000/docs
+
+## API Demo (Swagger UI)
+
+Below is the working FastAPI Swagger documentation showing ticket classification:
+
+![API Demo](images/demo.png)
